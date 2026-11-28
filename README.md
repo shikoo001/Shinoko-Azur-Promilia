@@ -30,16 +30,35 @@
 
 ### Player
 * God Mode
+* MultiHit
 * Force Critical
-* Movement Speed
-* Fly
-* Infinite Enegry
 * No Cooldown
+* Infinite Enegry
 * Attack Speed
-* Custom Teleport
+* Movement Speed
+* Max Level 
+* Max Tuning
+* Unlock All Heroes
 
 ### ESP
 * Filters (Monsters, KiBo, Players, NPC, Items
+
+### World
+* TP To Current Chest
+* TP To Nearest Chest
+* Map TP
+* Custom TP
+* Fly 
+* Auto Loot
+* Auto Activate Waypoints
+* Kill Aura 
+* Skip Dialogues
+
+### Visuals
+* Free Camera
+* Hide Damage
+* FPS Unlocker
+* FOV Changer
 
 ### Entity View
 *TP To Entity
