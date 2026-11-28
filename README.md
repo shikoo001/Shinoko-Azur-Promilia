@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Замени ссылку на скриншот своего меню -->
 <img src="https://github.com/shikoo001/Shinoko-Hi3rd/blob/main/image.png" alt="Preview" />
 
 <br/>
 
-<!-- Замени YOUR_INVITE_CODE на код приглашения в твой Discord -->
 <a href="https://discord.gg/MAfNE4rppc">
   <img src="https://img.shields.io/discord/1479905422755233854?color=5865F2&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
 </a>
@@ -46,6 +44,7 @@
 ### World
 * TP To Current Chest
 * TP To Nearest Chest
+* TP To Look Target
 * Map TP
 * Custom TP
 * Fly 
